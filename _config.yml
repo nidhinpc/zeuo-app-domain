@@ -1,0 +1,5 @@
+# GitHub Pages configuration for Android App Links
+# This ensures the .well-known folder is not ignored
+
+include:
+  - .well-known
